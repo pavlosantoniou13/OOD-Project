@@ -9,7 +9,7 @@ The system is built using **Object-Oriented Design (OOD)** principles, featuring
 
 ## Team Roles
 - **[Pavlos Antoniou]**: Repo owner, Tester 
-- **[Layth Al Mardini]**: Documentation
+- **[Layth Al Mardini]**: Documentation, Tester
 - **[Rabie Al Khoja]**: -
 
 
